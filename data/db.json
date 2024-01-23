@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "shahzoda",
+      "surname": "shirinova",
+      "email": "shahzodashirinova@gmil.com",
+      "age": "16"
+    }
+  ]
+}
